@@ -27,4 +27,4 @@ Backend deployed on Render
 Frontend deployed on Render
 
 ## 👨‍💻 Author
-Your Name
+SAIMA KAWAL
